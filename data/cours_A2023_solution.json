@@ -1,0 +1,290 @@
+[
+    {
+        "Sigle": "GIF-1001",
+        "Section": "H",
+        "Titre": "Ordinateurs : structures et applications",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GIF-1003",
+        "Section": "A",
+        "Titre": "Programmation avancée en C++ pour ingénieurs",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-1111",
+        "Section": "ZA",
+        "Titre": "Pratique du génie logiciel",
+        "Credit": "0"
+    },
+    {
+        "Sigle": "GLO-2000",
+        "Section": "A",
+        "Titre": "Réseaux pour ingénieurs",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-2004",
+        "Section": "Z3",
+        "Titre": "Génie logiciel orienté objet",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-2100",
+        "Section": "A",
+        "Titre": "Algorithmes et structures de données pour ingénieurs",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-3100",
+        "Section": "Z3",
+        "Titre": "Cryptographie et sécurité informatique",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-3101",
+        "Section": "ZA",
+        "Titre": "Gestion de projets informatiques : méthodes et outils",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-3102",
+        "Section": "Z3",
+        "Titre": "Développement d'applications Web",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-4001",
+        "Section": "A",
+        "Titre": "Introduction à la robotique mobile",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-4002",
+        "Section": "Z3",
+        "Titre": "Qualité et métriques du logiciel",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-4003",
+        "Section": "A",
+        "Titre": "Architecture logicielle",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-4008",
+        "Section": "A",
+        "Titre": "Applications infonuagiques natives et DevOps",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-4035",
+        "Section": "Z3",
+        "Titre": "Bases de données avancées",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-1000",
+        "Section": "Z3",
+        "Titre": "Logique et techniques de preuve",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-1003",
+        "Section": "Z3",
+        "Titre": "Analyse et conception de systèmes d’information",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-1004",
+        "Section": "A",
+        "Titre": "Introduction à la programmation",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-1004",
+        "Section": "Z3",
+        "Titre": "Introduction à la programmation",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-1006",
+        "Section": "Z3",
+        "Titre": "Programmation avancée en C++",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-1111",
+        "Section": "ZA",
+        "Titre": "Pratique de l’informatique",
+        "Credit": "0"
+    },
+    {
+        "Sigle": "IFT-1701",
+        "Section": "A",
+        "Titre": "Introduction à l’algorithmique et à la programmation",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-2001",
+        "Section": "Z3",
+        "Titre": "Systèmes d’exploitation",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-2002",
+        "Section": "Z3",
+        "Titre": "Informatique théorique",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-2003",
+        "Section": "Z1",
+        "Titre": "Intelligence artificielle 1",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-2004",
+        "Section": "Z3",
+        "Titre": "Modèles et langages des bases de données",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-2007",
+        "Section": "A",
+        "Titre": "Analyse et conception des systèmes orientés objet",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-2008",
+        "Section": "Z3",
+        "Titre": "Algorithmes et structures de données",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-2103",
+        "Section": "Z3",
+        "Titre": "Programmation de jeux vidéo",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-3001",
+        "Section": "Z3",
+        "Titre": "Conception et analyse d’algorithmes",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-3101",
+        "Section": "Z3",
+        "Titre": "Compilation et interprétation",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-3201",
+        "Section": "Z3",
+        "Titre": "Cyberattaques et tests d’intrusions dans les systèmes d’information",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-4001",
+        "Section": "A",
+        "Titre": "Optimisation combinatoire",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-4022",
+        "Section": "Z3",
+        "Titre": "Traitement automatique de la langue naturelle",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-4030",
+        "Section": "A",
+        "Titre": "Apprentissage automatique pour le traitement du signal",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-4201",
+        "Section": "Z3",
+        "Titre": "Apprentissage par renforcement",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "MAT-1919",
+        "Section": "A",
+        "Titre": "Mathématiques pour informaticien",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "MAT-1919",
+        "Section": "Z3",
+        "Titre": "Mathématiques pour informaticien",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-7008",
+        "Section": "A",
+        "Titre": "Applications infonuagiques natives et DevOps",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-7021",
+        "Section": "A",
+        "Titre": "Introduction à la robotique mobile",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "GLO-7035",
+        "Section": "Z3",
+        "Titre": "Bases de données avancées",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-6002",
+        "Section": "Z3",
+        "Titre": "Assurance qualité du logiciel",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-6003",
+        "Section": "A",
+        "Titre": "Architecture logicielle",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-6005",
+        "Section": "A",
+        "Titre": "Projet intégrateur",
+        "Credit": "6"
+    },
+    {
+        "Sigle": "IFT-7009",
+        "Section": "A",
+        "Titre": "Réseaux mobiles",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-7020",
+        "Section": "A",
+        "Titre": "Optimisation combinatoire",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-7022",
+        "Section": "Z3",
+        "Titre": "Traitement automatique de la langue naturelle",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-7030",
+        "Section": "A",
+        "Titre": "Apprentissage automatique pour le traitement du signal",
+        "Credit": "3"
+    },
+    {
+        "Sigle": "IFT-7201",
+        "Section": "Z3",
+        "Titre": "Apprentissage par renforcement",
+        "Credit": "3"
+    }
+]

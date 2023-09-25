@@ -1,0 +1,250 @@
+[
+    {
+        "Masked": "a beau * qui ** de loin",
+        "Word_list": [
+            "vient",
+            "mentir"
+        ],
+        "Proverb": "a beau mentir qui vient de loin"
+    },
+    {
+        "Masked": "a * mentir qui vient de **",
+        "Word_list": [
+            "beau",
+            "loin"
+        ],
+        "Proverb": "a beau mentir qui vient de loin"
+    },
+    {
+        "Masked": "l’* fait le **",
+        "Word_list": [
+            "larron",
+            "occasion"
+        ],
+        "Proverb": "l’occasion fait le larron"
+    },
+    {
+        "Masked": "*-toi, le ciel t’**",
+        "Word_list": [
+            "aidera",
+            "aide"
+        ],
+        "Proverb": "aide-toi, le ciel t’aidera"
+    },
+    {
+        "Masked": "année de *, ** de blé",
+        "Word_list": [
+            "année",
+            "gelée"
+        ],
+        "Proverb": "année de gelée, année de blé"
+    },
+    {
+        "Masked": "après la *, le ** temps",
+        "Word_list": [
+            "beau",
+            "pluie"
+        ],
+        "Proverb": "après la pluie, le beau temps"
+    },
+    {
+        "Masked": "aux échecs, les * sont les plus près des **",
+        "Word_list": [
+            "fous",
+            "rois"
+        ],
+        "Proverb": "aux échecs, les fous sont les plus près des rois"
+    },
+    {
+        "Masked": "ce que * veut, ** le veut",
+        "Word_list": [
+            "femme",
+            "dieu"
+        ],
+        "Proverb": "ce que femme veut, dieu le veut"
+    },
+    {
+        "Masked": "bien mal * ne ** jamais",
+        "Word_list": [
+            "profite",
+            "acquis"
+        ],
+        "Proverb": "bien mal acquis ne profite jamais"
+    },
+    {
+        "Masked": "bon * ne querelle pas ses **",
+        "Word_list": [
+            "outils",
+            "ouvrier"
+        ],
+        "Proverb": "bon ouvrier ne querelle pas ses outils"
+    },
+    {
+        "Masked": "ce n’est pas tous les * **",
+        "Word_list": [
+            "fête",
+            "jours"
+        ],
+        "Proverb": "ce n’est pas tous les jours fête"
+    },
+    {
+        "Masked": "pour le *, c’est tous les jours **",
+        "Word_list": [
+            "fête",
+            "fou"
+        ],
+        "Proverb": "pour le fou, c’est tous les jours fête"
+    },
+    {
+        "Masked": "* et **, sont deux",
+        "Word_list": [
+            "dire",
+            "faire"
+        ],
+        "Proverb": "dire et faire, sont deux"
+    },
+    {
+        "Masked": "mieux vaut * que **",
+        "Word_list": [
+            "prévenir",
+            "guérir"
+        ],
+        "Proverb": "mieux vaut prévenir que guérir"
+    },
+    {
+        "Masked": "d’* sac on ne peut tirer ** moutures",
+        "Word_list": [
+            "un",
+            "deux"
+        ],
+        "Proverb": "d’un sac on ne peut tirer deux moutures"
+    },
+    {
+        "Masked": "à qui * aide, ** ne peut nuire",
+        "Word_list": [
+            "nul",
+            "dieu"
+        ],
+        "Proverb": "à qui dieu aide, nul ne peut nuire"
+    },
+    {
+        "Masked": "il n’y a * de ** de cent jours",
+        "Word_list": [
+            "point",
+            "rose"
+        ],
+        "Proverb": "il n’y a point de rose de cent jours"
+    },
+    {
+        "Masked": "il faut le * pour le **",
+        "Word_list": [
+            "voir",
+            "croire"
+        ],
+        "Proverb": "il faut le voir pour le croire"
+    },
+    {
+        "Masked": "on ne vend * le poisson qui est encore ** la mer",
+        "Word_list": [
+            "pas",
+            "dans"
+        ],
+        "Proverb": "on ne vend pas le poisson qui est encore dans la mer"
+    },
+    {
+        "Masked": "la langue d’un * vaut mieux que celle d’un **",
+        "Word_list": [
+            "muet",
+            "menteur"
+        ],
+        "Proverb": "la langue d’un muet vaut mieux que celle d’un menteur"
+    },
+    {
+        "Masked": "* femme fait le ** homme",
+        "Word_list": [
+            "bon",
+            "bonne"
+        ],
+        "Proverb": "bonne femme fait le bon homme"
+    },
+    {
+        "Masked": "bonne * fait le bon **",
+        "Word_list": [
+            "homme",
+            "femme"
+        ],
+        "Proverb": "bonne femme fait le bon homme"
+    },
+    {
+        "Masked": "* ** femme veut, dieu le veut",
+        "Word_list": [
+            "ce",
+            "que"
+        ],
+        "Proverb": "ce que femme veut, dieu le veut"
+    },
+    {
+        "Masked": "ce * femme veut, dieu ** veut",
+        "Word_list": [
+            "que",
+            "le"
+        ],
+        "Proverb": "ce que femme veut, dieu le veut"
+    },
+    {
+        "Masked": "grand *, grand **",
+        "Word_list": [
+            "parleur",
+            "menteur"
+        ],
+        "Proverb": "grand parleur, grand menteur"
+    },
+    {
+        "Masked": "grand parleur, * **",
+        "Word_list": [
+            "grand",
+            "menteur"
+        ],
+        "Proverb": "grand parleur, grand menteur"
+    },
+    {
+        "Masked": "* poisson pourrit par ** tête",
+        "Word_list": [
+            "le",
+            "la"
+        ],
+        "Proverb": "le poisson pourrit par la tête"
+    },
+    {
+        "Masked": "le * pourrit par la **",
+        "Word_list": [
+            "tête",
+            "poisson"
+        ],
+        "Proverb": "le poisson pourrit par la tête"
+    },
+    {
+        "Masked": "* ** prévenir que guérir",
+        "Word_list": [
+            "mieux",
+            "vaut"
+        ],
+        "Proverb": "mieux vaut prévenir que guérir"
+    },
+    {
+        "Masked": "quand la * est **, elle tombe",
+        "Word_list": [
+            "poire",
+            "mûre"
+        ],
+        "Proverb": "quand la poire est mûre, elle tombe"
+    },
+    {
+        "Masked": "quand la poire est *, elle **",
+        "Word_list": [
+            "tombe",
+            "mûre"
+        ],
+        "Proverb": "quand la poire est mûre, elle tombe"
+    }
+]

@@ -1,0 +1,225 @@
+Cours de 1er cycle 
+
+AUTOMNE 2023 
+
+Cours  Sect.  Titre 
+GIF-1001 
+GIF-1003 
+GLO-1111 
+GLO-2000 
+GLO-2004 
+GLO-2100 
+GLO-3100 
+GLO-3101 
+GLO-3102 
+GLO-4001 
+GLO-4002 
+GLO-4003 
+GLO-4008 
+GLO-4035 
+IFT-1000 
+IFT-1003 
+IFT-1004 
+IFT-1004 
+IFT-1006 
+IFT-1111 
+IFT-1701 
+IFT-2001 
+IFT-2002 
+IFT-2003 
+IFT-2004 
+IFT-2007 
+IFT-2008 
+IFT-2103 
+IFT-3001 
+IFT-3101 
+IFT-3201 
+IFT-4001 
+IFT-4022 
+IFT-4030 
+IFT-4201 
+MAT-1919 
+MAT-1919 
+
+Ordinateurs : structures et applications
+Programmation avancée en C++ pour ingénieurs
+Pratique du génie logiciel
+Réseaux pour ingénieurs
+Génie logiciel orienté objet
+Algorithmes et structures de données pour ingénieurs
+Cryptographie et sécurité informatique
+Gestion de projets informatiques : méthodes et outils
+Développement d'applications Web
+Introduction à la robotique mobile
+Qualité et métriques du logiciel
+Architecture logicielle
+Applications infonuagiques natives et DevOps
+Bases de données avancées
+Logique et techniques de preuve
+Analyse et conception de systèmes d’information
+Introduction à la programmation
+Introduction à la programmation
+Programmation avancée en C++
+Pratique de l’informatique
+Introduction à l’algorithmique et à la programmation
+Systèmes d’exploitation
+Informatique théorique
+Intelligence artificielle 1
+Modèles et langages des bases de données
+Analyse et conception des systèmes orientés objet
+Algorithmes et structures de données
+Programmation de jeux vidéo
+Conception et analyse d’algorithmes
+Compilation et interprétation
+Cyberattaques et tests d’intrusions dans les systèmes d’information 
+Optimisation combinatoire
+Traitement automatique de la langue naturelle
+Apprentissage automatique pour le traitement du signal   Nouveau cours 
+Apprentissage par renforcement 
+Mathématiques pour informaticien
+Mathématiques pour informaticien
+
+H 
+A 
+ZA 
+A 
+Z3 
+A 
+Z3 
+ZA 
+Z3 
+A 
+Z3 
+A 
+A 
+Z3 
+Z3 
+Z3 
+A 
+Z3 
+Z3 
+ZA 
+A 
+Z3 
+Z3 
+Z1 
+Z3 
+A 
+Z3 
+Z3 
+Z3 
+Z3 
+Z3 
+A 
+Z3 
+A 
+Z3 
+A 
+Z3 
+
+Cours de 2e et 3e cycles 
+GLO-7008 
+GLO-7021 
+GLO-7035 
+IFT-6002 
+IFT-6003 
+IFT-6005 
+IFT-7009 
+IFT-7020 
+IFT-7022 
+IFT-7030 
+
+A 
+A 
+Z3 
+Z3 
+A 
+A 
+A 
+A 
+Z3 
+A 
+
+IFT-7201 
+
+Z3 
+
+Applications infonuagiques natives et DevOps (jumelé avec GLO-4008)
+Introduction à la robotique mobile (jumelé avec GLO-4001) 
+Bases de données avancées (jumelé avec GLO-4035)
+Assurance qualité du logiciel (jumelé avec GLO-4002)
+Architecture logicielle (jumelé avec GLO-4003)
+Projet intégrateur 
+Réseaux mobiles 
+Optimisation combinatoire (jumelé avec IFT-4001)
+Traitement automatique de la langue naturelle (jumelé avec IFT-4022)
+Apprentissage automatique pour le traitement du signal Nouveau cours 
+(jumelé avec IFT-4030)
+Apprentissage par renforcement (jumelé avec IFT-4201)
+
+# cr.
+
+3
+3
+0
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+0
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3 
+3
+3
+3
+
+3
+3
+3
+3
+3
+6
+3
+3
+3
+
+3
+3
+
+Signification des types de sections  
+
+- A : section en classe;  
+- Z1 : section à distance asynchrone;  
+- Z3 : section à distance synchrone;  
+- ZA : section en formule comodale; correspond à section Z3 avec possibilité d’assister à 
+l’enregistrement du cours dans une classe; 
+- H : hybride, certaines séances en présentiel, d’autres à distance. 
+ 
+Note : en jaune; nouveaux cours offerts à la session d’automne 2023. 
+ 
+
+
